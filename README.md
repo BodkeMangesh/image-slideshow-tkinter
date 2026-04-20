@@ -37,6 +37,7 @@ It allows users to view images in a slideshow with controls.
    pip install pillow
    ```
 3. Run the program
+
 ImageSlideShowapp.py
 ---
 
